@@ -99,7 +99,7 @@ function buildCharts(sample) {
 
     var barLayout = {
       title: "Top 10 Bacteria Cultures Found",
-      margin: { t: 30, l: 150 }
+      margin: { t: 100, l: 150 }
     };
 
     Plotly.newPlot("bar", barData, barLayout);
