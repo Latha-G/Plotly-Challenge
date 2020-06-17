@@ -1,7 +1,7 @@
 
 https://latha-g.github.io/Plotly-Challenge/
 
-# Plotly Homework - Belly Button Biodiversity
+# Plotly - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
 
